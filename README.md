@@ -2,8 +2,8 @@
 
 ## [The production method manual is here! ](http://bit-trade-one.co.jp/selfmadekb/adkb96manual/) (Sorry, now japanese only ...)
 
-![ADKB96](http://btoshop.jp/wp-content/uploads/sites/3/2019/04/ADKB96_ALL.png)
-
+![ADKB96](http://btoshop.jp/wp-content/uploads/sites/3/2019/04/ADKB96_ALL.png)  
+![ADKB96](http://btoshop.jp/wp-content/uploads/sites/3/2019/04/ADKB96_SUB.png)  
 ## Standard 96 key type base model.
 
 It is a standard rectangle (rectangular) base model of vertical 6 x horizontal 16 keys.
