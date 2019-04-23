@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BTO_Layout-rescue)(type Legacy)(uri ${KIPRJMOD}/BTO_Layout-rescue.lib)(options "")(descr ""))
+)
