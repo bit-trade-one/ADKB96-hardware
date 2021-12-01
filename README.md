@@ -4,7 +4,7 @@
 
 ### [Firmware writing procedure (external site)](https://bit-trade-one.co.jp/selfmadekb/softwaremanual/)
 
-![main](https://bit-trade-one.co.jp/selfmadekb/wp-content/uploads/sites/6/2019/04/3_ADKB96-%E8%A3%BD%E5%93%81%E3%83%88%E3%83%83%E3%83%97.png)
+![main](https://bit-trade-one.co.jp/selfmadekb/wp-content/uploads/sites/6/2019/04/3_ADKB96-%E8%A3%BD%E5%93%81%E3%83%88%E3%83%83%E3%83%97.png)  
 ![ADKB96](http://btoshop.jp/wp-content/uploads/sites/3/2019/04/ADKB96_ALL.png)  
 ![ADKB96](http://btoshop.jp/wp-content/uploads/sites/3/2019/04/ADKB96_SUB.png)  
 ## Standard 96 key type base model.
