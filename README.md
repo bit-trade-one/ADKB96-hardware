@@ -2,6 +2,8 @@
 
 ## [The production method manual is here! ](http://bit-trade-one.co.jp/selfmadekb/adkb96manual/) (Sorry, now japanese only ...)
 
+### [Firmware writing procedure (external site)](https://bit-trade-one.co.jp/selfmadekb/softwaremanual/)
+
 ![ADKB96](http://btoshop.jp/wp-content/uploads/sites/3/2019/04/ADKB96_ALL.png)  
 ![ADKB96](http://btoshop.jp/wp-content/uploads/sites/3/2019/04/ADKB96_SUB.png)  
 ## Standard 96 key type base model.
